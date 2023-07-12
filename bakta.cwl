@@ -66,7 +66,7 @@ inputs:
     id: prodigal_tf_file
     inputBinding: {prefix: --prodigal-tf}
     type: File
-  - doc: Translation table: 11/4 (default = 11)
+  - doc: "Translation table: 11/4 (default = 11)"
     id: translation_table
     inputBinding: {prefix: --translation-table}
     type: int
